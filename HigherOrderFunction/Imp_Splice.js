@@ -23,3 +23,5 @@ var fruit3 = ["Banana", "Orange", "Apple", "Mango"];
 fruit3.splice(2, 1, "Lemon", "Kiwi");
 console.log(fruits3);
 
+
+
