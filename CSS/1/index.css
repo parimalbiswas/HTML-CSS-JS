@@ -1,0 +1,12 @@
+.x {
+    background-color: red;
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
